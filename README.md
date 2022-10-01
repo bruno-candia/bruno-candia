@@ -35,4 +35,4 @@ I'm Bruno, a full-stack web developer currently living in the Minas Gerais - Bra
 ## Links
 * **[Aurem](https://aurem.com.br/)** - Speech-to-text accessibility tool developed by me
 * **[My Portfolio](https://bruno-candia.github.io/my-portfolio/)** - More about me
-* **[My Linkedin](https://www.linkedin.com/in/bruno-costa-candia/)** - In my free time I play piano
+* **[My Linkedin](https://www.linkedin.com/in/bruno-costa-candia/)** - In my free time I drink coffee

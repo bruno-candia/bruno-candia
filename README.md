@@ -30,6 +30,7 @@ I'm Bruno, a full-stack web developer currently living in the Minas Gerais - Bra
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
   <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe%20premiere%20pro&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" />
 </p>
 
 ## Links

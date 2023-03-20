@@ -1,6 +1,6 @@
 <h1>Welcome! Nice to meet you.</h1>
 
-I'm Bruno, a full-stack web developer currently living in the Minas Gerais - Brazil.
+I'm Bruno, a full-stack web developer currently living in the Campinas, SP - Brazil.
 
 <h2>Things I know</h2>
 <p>

@@ -4,7 +4,9 @@ I'm Bruno, a full-stack web developer currently living in the Campinas, SP - Bra
 
 <h2>Things I know</h2>
 <p>
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-74ac63?logo=node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=333" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-ead81c?logo=express&logoColor=black" />

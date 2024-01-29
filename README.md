@@ -34,6 +34,8 @@ I'm Bruno, a full-stack web developer.
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" />
 </p>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649b2d22d99c9d67319b1584?variant=dark)](https://roadmap.sh)
+
 ## Links
 * **[My Portfolio](https://bruno-candia.github.io/my-portfolio/)** - More about me
 * **[My Linkedin](https://www.linkedin.com/in/bruno-costa-candia/)** - In my free time I drink coffee

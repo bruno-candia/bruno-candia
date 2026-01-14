@@ -83,4 +83,3 @@ I'm a Full Stack engineer working with React, Node.js, and Java. My focus is on 
 - **Portfolio:** [brunocandia.com](https://brunocandia.com)
 - **LinkedIn:** [linkedin.com/in/bruno-candia](https://www.linkedin.com/in/bruno-candia)
 - **Behance:** [behance.net/brunocostac3](https://www.behance.net/brunocostac3)
-- **GitHub:** [github.com/bruno-candia](https://github.com/bruno-candia)
